@@ -6,12 +6,12 @@ export const Ldlc: Store = {
 			container: '.stocks.stock-info .website span em',
 			text: ['stock']
 		},
+		maxPrice: {
+			container: '.product-info .price .price'
+		},
 		outOfStock: {
 			container: '.stocks.stock-info .website span',
 			text: ['Rupture']
-		},
-		maxPrice: {
-			container: '.product-info .price .price'
 		}
 	},
 	links: [

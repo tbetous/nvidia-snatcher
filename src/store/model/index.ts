@@ -20,7 +20,7 @@ import {Ebuyer} from './ebuyer';
 import {Evga} from './evga';
 import {EvgaEu} from './evga-eu';
 import {Gamestop} from './gamestop';
-import {Ldlc} from './ldlc'
+import {Ldlc} from './ldlc';
 import {Mediamarkt} from './mediamarkt';
 import {MicroCenter} from './microcenter';
 import {Newegg} from './newegg';
